@@ -3,10 +3,10 @@ tag: global
 tags: blockTags
 description: Document a global object.
 related:
-    - /tags-inner
-    - /tags-instance
-    - /tags-memberof
-    - /tags-static
+- /tags-inner
+- /tags-instance
+- /tags-memberof
+- /tags-static
 ---
 
 ## Overview

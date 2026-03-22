@@ -3,7 +3,7 @@ tag: throws
 tags: blockTags
 description: Describe what errors could be thrown.
 synonyms:
-    - exception
+- exception
 ---
 
 ## Syntax

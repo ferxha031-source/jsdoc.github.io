@@ -3,9 +3,9 @@ tag: mixes
 tags: blockTags
 description: This object mixes in all the members from another object.
 related:
-    - /tags-borrows
-    - /tags-class
-    - /tags-mixin
+- /tags-borrows
+- /tags-class
+- /tags-mixin
 ---
 
 ## Syntax

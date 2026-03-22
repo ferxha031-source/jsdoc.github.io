@@ -3,9 +3,9 @@ tag: instance
 tags: blockTags
 description: Document an instance member.
 related:
-    - /tags-global
-    - /tags-inner
-    - /tags-static
+- /tags-global
+- /tags-inner
+- /tags-static
 ---
 
 ## Overview

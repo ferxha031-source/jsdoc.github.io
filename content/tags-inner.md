@@ -3,9 +3,9 @@ tag: inner
 tags: blockTags
 description: Document an inner object.
 related:
-    - /tags-global
-    - /tags-instance
-    - /tags-static
+- /tags-global
+- /tags-instance
+- /tags-static
 ---
 
 ## Overview

@@ -3,7 +3,7 @@ tag: memberof
 tags: blockTags
 description: This symbol belongs to a parent symbol.
 related:
-    - /tags-name
+- /tags-name
 ---
 
 ## Syntax

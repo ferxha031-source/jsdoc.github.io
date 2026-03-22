@@ -4,7 +4,7 @@ tags: inlineTags
 description: Link to a tutorial.
 version: '>=3.0.0'
 related:
-    - /tags-tutorial
+- /tags-tutorial
 ---
 
 ## Syntax

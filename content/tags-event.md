@@ -3,8 +3,8 @@ tag: event
 tags: blockTags
 description: Document an event.
 related:
-    - /tags-fires
-    - /tags-listens
+- /tags-fires
+- /tags-listens
 ---
 
 ## Syntax

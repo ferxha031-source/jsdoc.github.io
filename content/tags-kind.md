@@ -3,7 +3,7 @@ tag: kind
 tags: blockTags
 description: What kind of symbol is this?
 related:
-    - /tags-type
+- /tags-type
 ---
 
 ## Syntax

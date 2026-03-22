@@ -3,7 +3,7 @@ tag: enum
 tags: blockTags
 description: Document a collection of related properties.
 related:
-    - /tags-property
+- /tags-property
 ---
 
 ## Syntax

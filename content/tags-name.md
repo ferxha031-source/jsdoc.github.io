@@ -3,8 +3,8 @@ tag: name
 tags: blockTags
 description: Document the name of an object.
 related:
-    - /about-namepaths
-    - /tags-alias
+- /about-namepaths
+- /tags-alias
 ---
 
 ## Syntax

@@ -3,13 +3,13 @@ tag: protected
 tags: blockTags
 description: This symbol is meant to be protected.
 related:
-    - /tags-access
-    - /tags-global
-    - /tags-instance
-    - /tags-package
-    - /tags-private
-    - /tags-public
-    - /tags-static
+- /tags-access
+- /tags-global
+- /tags-instance
+- /tags-package
+- /tags-private
+- /tags-public
+- /tags-static
 ---
 
 ## Syntax

@@ -3,7 +3,7 @@ tag: hideconstructor
 tags: blockTags
 description: Indicate that the constructor should not be displayed.
 related:
-	- /tags-class
+- /tags-class
 ---
 
 ## Syntax

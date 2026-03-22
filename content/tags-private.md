@@ -3,13 +3,13 @@ tag: private
 tags: blockTags
 description: This symbol is meant to be private.
 related:
-    - /tags-access
-    - /tags-global
-    - /tags-instance
-    - /tags-package
-    - /tags-protected
-    - /tags-public
-    - /tags-static
+- /tags-access
+- /tags-global
+- /tags-instance
+- /tags-package
+- /tags-protected
+- /tags-public
+- /tags-static
 ---
 
 ## Syntax

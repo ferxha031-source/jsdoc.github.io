@@ -4,7 +4,7 @@ tags: blockTags
 description: Indicate that a symbol should inherit its parent's documentation.
 version: '>=3.3.0'
 related:
-    - /tags-override
+- /tags-override
 ---
 
 ## Overview

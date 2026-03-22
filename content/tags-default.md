@@ -3,7 +3,7 @@ tag: default
 tags: blockTags
 description: Document the default value.
 synonyms:
-    - defaultvalue
+- defaultvalue
 ---
 
 ## Syntax

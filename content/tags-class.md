@@ -3,9 +3,9 @@ tag: class
 tags: blockTags
 description: This function is intended to be called with the "new" keyword.
 synonyms:
-    - constructor
+- constructor
 related:
-    - /tags-constructs
+- /tags-constructs
 ---
 
 ## Syntax

@@ -3,8 +3,8 @@ tag: classdesc
 tags: blockTags
 description: Use the following text to describe the entire class.
 related:
-    - /tags-class
-    - /tags-description
+- /tags-class
+- /tags-description
 ---
 
 ## Syntax

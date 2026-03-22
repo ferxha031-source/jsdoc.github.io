@@ -3,8 +3,8 @@ tag: function
 tags: blockTags
 description: Describe a function or method.
 synonyms:
-    - func
-    - method
+- func
+- method
 ---
 
 ## Syntax

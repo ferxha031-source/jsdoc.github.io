@@ -3,9 +3,9 @@ tag: mixin
 tags: blockTags
 description: Document a mixin object.
 related:
-    - /tags-borrows
-    - /tags-class
-    - /tags-mixes
+- /tags-borrows
+- /tags-class
+- /tags-mixes
 ---
 
 ## Syntax

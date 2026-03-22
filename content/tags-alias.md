@@ -3,8 +3,8 @@ tag: alias
 tags: blockTags
 description: Treat a member as if it had a different name.
 related:
-    - /tags-name
-    - /tags-lends
+- /tags-name
+- /tags-lends
 ---
 
 ## Syntax

@@ -3,7 +3,7 @@ tag: see
 tags: blockTags
 description: Refer to some other documentation for more information.
 related:
-    - /tags-inline-link
+- /tags-inline-link
 ---
 
 ## Syntax

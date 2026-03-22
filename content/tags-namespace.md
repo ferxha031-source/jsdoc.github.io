@@ -3,7 +3,7 @@ tag: namespace
 tags: blockTags
 description: Document a namespace object.
 related:
-    - /tags-module
+- /tags-module
 ---
 
 ## Syntax

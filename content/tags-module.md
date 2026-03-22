@@ -3,9 +3,9 @@ tag: module
 tags: blockTags
 description: Document a JavaScript module.
 related:
-    - /tags-exports
-    - /howto-commonjs-modules
-    - /howto-amd-modules
+- /tags-exports
+- /howto-commonjs-modules
+- /howto-amd-modules
 ---
 
 ## Syntax

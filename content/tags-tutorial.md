@@ -3,9 +3,9 @@ tag: tutorial
 tags: blockTags
 description: Insert a link to an included tutorial file.
 related:
-    - /about-tutorials
-    - /tags-inline-tutorial
-    - /tags-see
+- /about-tutorials
+- /tags-inline-tutorial
+- /tags-see
 ---
 
 ## Syntax

@@ -3,7 +3,7 @@ tag: member
 tags: blockTags
 description: Document a member.
 synonyms:
-    - var
+- var
 ---
 
 ## Syntax

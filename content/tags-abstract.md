@@ -3,7 +3,7 @@ tag: abstract
 tags: blockTags
 description: This member must be implemented (or overridden) by the inheritor.
 synonyms:
-    - virtual
+- virtual
 ---
 
 ## Overview

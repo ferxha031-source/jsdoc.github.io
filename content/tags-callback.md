@@ -3,8 +3,8 @@ tag: callback
 tags: blockTagss
 description: Document a callback function.
 related:
-    - /tags-function
-    - /tags-typedef
+- /tags-function
+- /tags-typedef
 ---
 
 ## Syntax

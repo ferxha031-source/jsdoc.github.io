@@ -3,7 +3,7 @@ tag: constructs
 tags: blockTags
 description: This function member will be the constructor for the previous class.
 related:
-    - /tags-lends
+- /tags-lends
 ---
 
 ## Overview

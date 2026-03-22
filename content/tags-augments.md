@@ -3,12 +3,12 @@ tag: augments
 tags: blockTags
 description: Indicate that a symbol inherits from, and adds to, a parent symbol.
 synonyms:
-    - extends
+- extends
 related:
-    - /tags-borrows
-    - /tags-class
-    - /tags-mixes
-    - /tags-mixin
+- /tags-borrows
+- /tags-class
+- /tags-mixes
+- /tags-mixin
 ---
 
 ## Syntax

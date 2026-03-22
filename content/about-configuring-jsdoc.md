@@ -2,9 +2,9 @@
 title: Configuring JSDoc with a configuration file
 tags: gettingStarted
 related:
-    - /about-commandline
-    - /about-plugins
-    - /plugins-markdown
+- /about-commandline
+- /about-plugins
+- /plugins-markdown
 ---
 
 ## Configuration file formats

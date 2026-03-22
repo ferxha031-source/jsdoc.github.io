@@ -3,9 +3,9 @@ tag: typedef
 tags: blockTags
 description: Document a custom type.
 related:
-    - /tags-callback
-    - /tags-param
-    - /tags-type
+- /tags-callback
+- /tags-param
+- /tags-type
 ---
 
 ## Syntax

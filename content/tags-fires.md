@@ -3,10 +3,10 @@ tag: fires
 tags: blockTags
 description: Describe the events this method may fire.
 synonyms:
-    - emits
+- emits
 related:
-    - /tags-event
-    - /tags-listens
+- /tags-event
+- /tags-listens
 ---
 
 ## Syntax

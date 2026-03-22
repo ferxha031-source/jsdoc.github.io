@@ -3,9 +3,9 @@ tag: yields
 tags: blockTags
 description: Document the value yielded by a generator function.
 synonyms:
-	- yield
+- yield
 related:
-	- /tags-returns
+- /tags-returns
 ---
 
 ## Syntax

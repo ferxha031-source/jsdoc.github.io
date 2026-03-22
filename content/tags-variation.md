@@ -3,8 +3,8 @@ tag: variation
 tags: blockTags
 description: Distinguish different objects with the same name.
 related:
-    - /tags-alias
-    - /tags-name
+- /tags-alias
+- /tags-name
 ---
 
 ## Syntax

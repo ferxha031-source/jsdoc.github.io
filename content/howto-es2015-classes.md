@@ -1,7 +1,7 @@
 ---
 title: ES 2015 Classes
 related:
-    - /tags-augments
+- /tags-augments
 ---
 
 JSDoc 3 makes it easy to document classes that follow the [ECMAScript 2015

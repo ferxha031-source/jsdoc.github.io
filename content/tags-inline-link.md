@@ -4,11 +4,11 @@ tags: inlineTags
 description: Link to another item in the documentation.
 version: '>=3.0.0'
 synonyms:
-    - linkcode
-    - linkplain
+- linkcode
+- linkplain
 related:
-    - /about-configuring-jsdoc
-    - /about-namepaths
+- /about-configuring-jsdoc
+- /about-namepaths
 ---
 
 ## Syntax

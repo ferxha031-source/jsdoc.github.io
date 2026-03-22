@@ -3,9 +3,9 @@ tag: static
 tags: blockTags
 description: Document a static member.
 related:
-    - /tags-global
-    - /tags-inner
-    - /tags-instance
+- /tags-global
+- /tags-inner
+- /tags-instance
 ---
 
 ## Overview

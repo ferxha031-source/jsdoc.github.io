@@ -3,10 +3,10 @@ tag: returns
 tags: blockTags
 description: Document the return value of a function.
 synonyms:
-    - return
+- return
 related:
-    - /tags-param
-    - /tags-yields
+- /tags-param
+- /tags-yields
 ---
 
 ## Syntax

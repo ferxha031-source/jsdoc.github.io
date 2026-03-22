@@ -4,7 +4,7 @@ tags: blockTags
 description: This symbol implements an interface.
 version: '>=3.3.0'
 related:
-    - /tags-interface
+- /tags-interface
 ---
 
 ## Syntax

@@ -3,13 +3,13 @@ tag: param
 tags: blockTags
 description: Document the parameter to a function.
 synonyms:
-    - arg
-    - argument
+- arg
+- argument
 related:
-    - /tags-callback
-    - /tags-returns
-    - /tags-type
-    - /tags-typedef
+- /tags-callback
+- /tags-returns
+- /tags-type
+- /tags-typedef
 ---
 
 ## Overview

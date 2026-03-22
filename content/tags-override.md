@@ -3,10 +3,10 @@ tag: override
 tags: blockTags
 description: Indicate that a symbol overrides its parent.
 dictionaries:
-    - closure
+- closure
 version: '>=3.3.0'
 related:
-    - /tags-inheritdoc
+- /tags-inheritdoc
 ---
 
 ## Overview

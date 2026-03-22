@@ -3,8 +3,8 @@ tag: summary
 tags: blockTags
 description: A shorter version of the full description.
 related:
-    - /tags-classdesc
-    - /tags-description
+- /tags-classdesc
+- /tags-description
 ---
 
 ## Syntax

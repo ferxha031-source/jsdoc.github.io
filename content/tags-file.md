@@ -3,11 +3,11 @@ tag: file
 tags: blockTags
 description: Describe a file.
 synonyms:
-    - fileoverview
-    - overview
+- fileoverview
+- overview
 related:
-    - /tags-author
-    - /tags-version
+- /tags-author
+- /tags-version
 ---
 
 ## Overview

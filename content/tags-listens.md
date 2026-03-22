@@ -3,8 +3,8 @@ tag: listens
 tags: blockTags
 description: List the events that a symbol listens for.
 related:
-    - /tags-event
-    - /tags-fires
+- /tags-event
+- /tags-fires
 ---
 
 ## Syntax

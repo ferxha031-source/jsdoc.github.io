@@ -3,7 +3,7 @@ tag: this
 tags: blockTags
 description: What does the 'this' keyword refer to here?
 related:
-    - /tags-memberof
+- /tags-memberof
 ---
 
 ## Syntax

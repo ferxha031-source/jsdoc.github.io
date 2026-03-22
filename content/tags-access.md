@@ -3,13 +3,13 @@ tag: access
 tags: blockTags
 description: Specify the access level of this member (private, package-private, public, or protected).
 related:
-    - /tags-global
-    - /tags-instance
-    - /tags-package
-    - /tags-private
-    - /tags-protected
-    - /tags-public
-    - /tags-static
+- /tags-global
+- /tags-instance
+- /tags-package
+- /tags-private
+- /tags-protected
+- /tags-public
+- /tags-static
 ---
 
 ## Syntax

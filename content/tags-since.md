@@ -3,7 +3,7 @@ tag: since
 tags: blockTags
 description: When was this feature added?
 related:
-    - /tags-version
+- /tags-version
 ---
 
 ## Syntax

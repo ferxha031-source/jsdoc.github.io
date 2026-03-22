@@ -3,7 +3,7 @@ tag: version
 tags: blockTags
 description: Documents the version number of an item.
 related:
-    - /tags-since
+- /tags-since
 ---
 
 ## Overview

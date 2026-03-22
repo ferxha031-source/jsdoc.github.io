@@ -3,10 +3,10 @@ tag: type
 tags: blockTags
 description: Document the type of an object.
 related:
-    - /tags-callback
-    - /tags-typedef
-    - /tags-param
-    - /tags-property
+- /tags-callback
+- /tags-typedef
+- /tags-param
+- /tags-property
 ---
 
 {% set open = '{{' %}

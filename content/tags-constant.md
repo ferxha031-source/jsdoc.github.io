@@ -3,10 +3,10 @@ tag: constant
 tags: blockTags
 description: Document an object as a constant.
 synonyms:
-    - const
+- const
 related:
-    - /tags-default
-    - /tags-type
+- /tags-default
+- /tags-type
 ---
 
 ## Syntax

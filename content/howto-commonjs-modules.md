@@ -1,9 +1,9 @@
 ---
 title: CommonJS Modules
 related:
-    - /about-namepaths
-    - /tags-exports
-    - /tags-module
+- /about-namepaths
+- /tags-exports
+- /tags-module
 ---
 
 ## Overview

@@ -3,9 +3,9 @@ tag: exports
 tags: blockTags
 description: Identify the member that is exported by a JavaScript module.
 related:
-    - /tags-module
-    - /howto-commonjs-modules
-    - /howto-amd-modules
+- /tags-module
+- /howto-commonjs-modules
+- /howto-amd-modules
 ---
 
 ## Syntax

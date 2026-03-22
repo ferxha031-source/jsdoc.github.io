@@ -3,13 +3,13 @@ tag: package
 tags: blockTags
 description: This symbol is meant to be package-private.
 related:
-    - /tags-access
-    - /tags-global
-    - /tags-instance
-    - /tags-private
-    - /tags-protected
-    - /tags-public
-    - /tags-static
+- /tags-access
+- /tags-global
+- /tags-instance
+- /tags-private
+- /tags-protected
+- /tags-public
+- /tags-static
 ---
 
 ## Syntax

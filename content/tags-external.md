@@ -3,7 +3,7 @@ tag: external
 tags: blockTags
 description: Identifies an external class, namespace, or module.
 synonyms:
-    - host
+- host
 ---
 
 ## Syntax

@@ -1,8 +1,8 @@
 ---
 title: ES 2015 Modules
 related:
-    - /about-namepaths
-    - /tags-module
+- /about-namepaths
+- /tags-module
 ---
 
 JSDoc 3 makes it possible to document modules that follow the [ECMAScript 2015

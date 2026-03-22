@@ -3,10 +3,10 @@ tag: property
 tags: blockTags
 description: Document a property of an object.
 synonyms:
-    - prop
+- prop
 related:
-    - /tags-enum
-    - /tags-member
+- /tags-enum
+- /tags-member
 ---
 
 ## Overview

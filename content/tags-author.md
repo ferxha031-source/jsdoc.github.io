@@ -3,8 +3,8 @@ tag: author
 tags: blockTags
 description: Identify the author of an item.
 related:
-    - /tags-file
-    - /tags-version
+- /tags-file
+- /tags-version
 ---
 
 ## Syntax

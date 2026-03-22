@@ -2,7 +2,7 @@
 title: Command-line arguments to JSDoc
 tags: gettingStarted
 related:
-    - /about-configuring-jsdoc
+- /about-configuring-jsdoc
 ---
 
 At its most basic level, JSDoc is used like so:

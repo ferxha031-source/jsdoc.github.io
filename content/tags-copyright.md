@@ -3,7 +3,7 @@ tag: copyright
 tags: blockTags
 description: Document some copyright information.
 related:
-    - /tags-file
+- /tags-file
 ---
 
 ## Syntax

@@ -2,8 +2,8 @@
 title: Using namepaths with JSDoc
 tags: gettingStarted
 related:
-    - /about-block-inline-tags
-    - /tags-inline-link
+- /about-block-inline-tags
+- /tags-inline-link
 ---
 
 ## Namepaths in JSDoc

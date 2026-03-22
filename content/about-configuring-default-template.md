@@ -2,7 +2,7 @@
 title: Configuring JSDoc's default template
 tags: gettingStarted
 related:
-    - /about-configuring-jsdoc
+- /about-configuring-jsdoc
 ---
 
 JSDoc's default template provides several options that you can use to customize the appearance and

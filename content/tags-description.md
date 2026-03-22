@@ -3,10 +3,10 @@ tag: description
 tags: blockTags
 description: Describe a symbol.
 synonyms:
-    - desc
+- desc
 related:
-    - /tags-classdesc
-    - /tags-summary
+- /tags-classdesc
+- /tags-summary
 ---
 
 ## Syntax
